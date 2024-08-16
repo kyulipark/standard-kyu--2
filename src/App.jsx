@@ -8,7 +8,7 @@ function App() {
     <div>
       <Header title="My Website" />
       <Content />
-      <Footer year={2024} />
+      <Footer year="2024" />
     </div>
   );
 }
